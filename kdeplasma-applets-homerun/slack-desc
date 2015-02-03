@@ -6,14 +6,14 @@
 # customary to leave one space after the ':' except on otherwise blank lines.
 
         |-----handy-ruler------------------------------------------------------|
-zanshin: zanshin
-zanshin:
-zanshin: To-do management application for KDE based on Akonadi 
-zanshin: 
-zanshin:
-zanshin: https://zanshin.kde.org/
-zanshin:
-zanshin:
-zanshin:
-zanshin:
-zanshin: Package By AdHy Ngurajeka (ngurajeka.92@gmail.com)
+kdeplasma-applets-homerun: kdeplasma-applets-homerun
+kdeplasma-applets-homerun:
+kdeplasma-applets-homerun: An application launcher for KDE Plasma desktop 
+kdeplasma-applets-homerun: 
+kdeplasma-applets-homerun:
+kdeplasma-applets-homerun: https://userbase.kde.org/Homerun/
+kdeplasma-applets-homerun:
+kdeplasma-applets-homerun:
+kdeplasma-applets-homerun:
+kdeplasma-applets-homerun:
+kdeplasma-applets-homerun: Package By AdHy Ngurajeka (ngurajeka.92@gmail.com)
